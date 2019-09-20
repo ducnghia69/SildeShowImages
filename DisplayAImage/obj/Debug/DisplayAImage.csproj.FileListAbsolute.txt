@@ -1,0 +1,10 @@
+C:\Users\Owner\Desktop\.NETFramework\DisplayAImage\DisplayAImage\obj\Debug\DisplayAImage.Form1.resources
+C:\Users\Owner\Desktop\.NETFramework\DisplayAImage\DisplayAImage\obj\Debug\DisplayAImage.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\.NETFramework\DisplayAImage\DisplayAImage\bin\Debug\DisplayAImage.exe.config
+C:\Users\Owner\Desktop\.NETFramework\DisplayAImage\DisplayAImage\bin\Debug\DisplayAImage.exe
+C:\Users\Owner\Desktop\.NETFramework\DisplayAImage\DisplayAImage\bin\Debug\DisplayAImage.pdb
+C:\Users\Owner\Desktop\.NETFramework\DisplayAImage\DisplayAImage\obj\Debug\DisplayAImage.Properties.Resources.resources
+C:\Users\Owner\Desktop\.NETFramework\DisplayAImage\DisplayAImage\obj\Debug\DisplayAImage.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\.NETFramework\DisplayAImage\DisplayAImage\obj\Debug\DisplayAImage.exe
+C:\Users\Owner\Desktop\.NETFramework\DisplayAImage\DisplayAImage\obj\Debug\DisplayAImage.pdb
+C:\Users\Owner\Desktop\.NETFramework\DisplayAImage\DisplayAImage\obj\Debug\DisplayAImage.csprojAssemblyReference.cache
